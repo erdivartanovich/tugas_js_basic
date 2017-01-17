@@ -70,7 +70,7 @@ error handling, menggunakan blok try .. throw .. catch . throw mendefinisikan me
 
 ##try.js
 membungkus satu atau lebih baris perintah dalam blok yang mana jika terjadi error akan dimasukkan dalam blok catch. adapun blok finally akan selalu dieksekusi apapun yang terjadi, biasanya diisi dengan perintah pembersihan memori atau menampilkan pesan. dalam fungsi ini error akan selalu ditangkap oleh blok catch karena fungsi gakAdaFungsiIni() adalah undefined atau belum diinitialisasi sebelumnya.
-##why.js
+##whyle.js
 
 adalah perintah conditional structure menggunakan fungsi while
 
